@@ -1,0 +1,10 @@
+---
+title: "Pierwszy projekt"
+output: html_document
+date: "2023-07-11"
+---
+
+```{r setup, include=FALSE}
+x={1,2,3,4}
+x.mean
+```dadada
